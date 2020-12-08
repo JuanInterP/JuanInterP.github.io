@@ -1,0 +1,65 @@
+body {
+	background-image: url("Controllers.jpg");
+  background-color: #7C7C7C;
+}
+
+h1 {
+	color: red;
+	background-image: url("TitleBG.jpg");
+	font-size: 250%;
+	position: absolute;
+	right: 700px;
+	top: 5px;
+}
+	
+
+
+pre {
+	
+	font-family: Times New Roman;
+	font-size: 150%;
+	color: #7EB23A;
+	background: rgba(102, 100, 99, 0.7);
+	font-weight: bold;
+	position: absolute;
+	left: 380px;
+	top: 70px;
+	
+}
+
+p.Home {
+	font-family: Times New Roman;
+	font-size: 150%;
+	font-weight: bold;
+	position: absolute;
+	left: 125px;
+	top: 235px;
+	
+}
+
+img[src="NoLimits.jpg"] {
+	opacity: 1;
+	width: 233px;
+	height: 150px;
+	position: absolute;
+	left: 1260px;
+	top: 350px;
+	
+}
+
+img[src="HomeArrow.png"] {
+	opacity: 1;
+	width: 233px;
+	height: 150px;
+	position: absolute;
+	left: 0px;
+	top: 200px;
+	
+}
+
+pre.Autoria {
+	color: white;
+	position: absolute;
+	left: 30px;
+	top: 725px;
+}

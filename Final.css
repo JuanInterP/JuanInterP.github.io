@@ -1,0 +1,94 @@
+body {
+	background-image: url("Controllers.jpg");
+  background-color: #7C7C7C;
+}
+
+h1 {
+	background-image: url("TitleBG.jpg");
+	color: red;
+	outline-color: green;
+	font-size: 250%;
+	position: absolute;
+	right: 560px;
+	top: 5px;
+}
+	
+
+pre {
+	
+	font-family: Times New Roman;
+	font-size: 150%;
+	color: red;
+	background: rgba(102, 100, 99, 0.7);
+	font-weight: bold;
+	position: absolute;
+	left: 380px;
+	top: 70px;
+	
+}
+
+pre.Intro {
+	color: #7EB23A;
+	position: absolute;
+	left: 380px;
+	top: 300px;
+}
+
+pre.Autoria {
+	color: white;
+	position: absolute;
+	left: 30px;
+	top: 700px;
+}
+
+img[src="RedArrow.png"] {
+	opacity: 0.9;
+	width: 300px;
+	height: 150px;
+	position: absolute;
+	left: 1200px;
+	top: 10px;
+}
+
+h2 {
+	opacity: 1;
+	font-size: 25px;
+	position: absolute;
+	left: 1250px;
+	top: 47px;
+	z-index: 2;
+}
+
+img[src="YellowArrow.png"] {
+	opacity: 1;
+	width: 300px;
+	height: 150px;
+	position: absolute;
+	left: 1200px;
+	top: 310px;
+}
+
+h3 {
+	opacity: 1;
+	font-size: 25px;
+	position: absolute;
+	left: 1250px;
+	top: 342px;
+}
+
+img[src="GreenArrow.png"] {
+	opacity: 0.9;
+	width: 300px;
+	height: 150px;
+	position: absolute;
+	left: 1200px;
+	top: 570px;
+}
+
+h4 {
+	opacity: 1;
+	font-size: 25px;
+	position: absolute;
+	left: 1230px;
+	top: 594px;
+}
